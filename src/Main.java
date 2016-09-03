@@ -1,8 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {//updated
-
+public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("Zuerst die Dimension der Matrix in der erweiterten Form (ZeilenxSpalten) in der Form AxB z.B. 3x4  eingeben");
